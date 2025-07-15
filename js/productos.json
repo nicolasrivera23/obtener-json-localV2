@@ -1,0 +1,37 @@
+[
+  {
+    "id" : 1111,
+    "name" : "Varita de Sauco",
+    "price" : 50.99,
+    "description" : "Varita de Sauco 23cm",
+    "image" : "https://picsum.photos/id/237/200/300"
+  },
+  {
+  "id" : 2222,
+  "name" : "Nimbus 2000",
+  "price" : 30.99,
+  "description" : "La maravillosa Nimbus 2000 puede alcanzar velocidades ..",
+  "image" : "media/img/Nimbus_2000.jpg"
+  },
+  {
+  "id" : 3333,
+  "name" : "Lechuza",
+  "price" : 32.99,
+  "description" : "Esta lechuza puede gestionar tu correo",
+  "image" : "https://picsum.photos/id/237/200/300"
+  },
+  {
+  "id" : 4444,
+  "name" : "Poción cambio de apariencia",
+  "price" : 50.99,
+  "description" : "Poción cambio de apariencia",
+  "image" : "https://picsum.photos/id/237/200/300"
+  },
+  {
+  "id" : 5555,
+  "name" : "Poción Multijugos",
+  "price" : 50.99,
+  "description" : "Poción multijugos",
+  "image" : "https://picsum.photos/id/237/200/300"
+  }
+]

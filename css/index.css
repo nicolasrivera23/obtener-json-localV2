@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.titulo {
+  text-align: center;
+  font-size: clamp(32px, 8vw, 64px);
+  font-family: Montserrat, sans-serif;
+  margin: 24px;
+}
+
+.detalles {
+  text-align: center;
+  font-size: clamp(16px, 8vw, 32px);
+  font-family: Montserrat, sans-serif;
+  padding: 24px;
+}
+
+.contenedor-producto {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  font-family: Montserrat, sans-serif;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 8px;
+  font-size: clamp(16px, 8vw, 32px);
+  text-align: center;
+  padding: 12px;
+  width: 300px;
+}
+
+.imagen {
+  width: 200px;
+  height: 300px;
+}
+
